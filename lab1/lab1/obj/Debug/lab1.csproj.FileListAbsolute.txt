@@ -1,0 +1,7 @@
+D:\Programs\projects\ISP\1 laba\lab1\lab1\bin\Debug\lab1.exe.config
+D:\Programs\projects\ISP\1 laba\lab1\lab1\bin\Debug\lab1.exe
+D:\Programs\projects\ISP\1 laba\lab1\lab1\bin\Debug\lab1.pdb
+D:\Programs\projects\ISP\1 laba\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+D:\Programs\projects\ISP\1 laba\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\Programs\projects\ISP\1 laba\lab1\lab1\obj\Debug\lab1.exe
+D:\Programs\projects\ISP\1 laba\lab1\lab1\obj\Debug\lab1.pdb
