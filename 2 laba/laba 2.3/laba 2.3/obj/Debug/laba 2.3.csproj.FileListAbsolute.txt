@@ -1,0 +1,7 @@
+D:\Programs\projects\ISP\2 laba\laba 2.3\laba 2.3\bin\Debug\laba 2.3.exe.config
+D:\Programs\projects\ISP\2 laba\laba 2.3\laba 2.3\bin\Debug\laba 2.3.exe
+D:\Programs\projects\ISP\2 laba\laba 2.3\laba 2.3\bin\Debug\laba 2.3.pdb
+D:\Programs\projects\ISP\2 laba\laba 2.3\laba 2.3\obj\Debug\laba 2.3.csprojAssemblyReference.cache
+D:\Programs\projects\ISP\2 laba\laba 2.3\laba 2.3\obj\Debug\laba 2.3.csproj.CoreCompileInputs.cache
+D:\Programs\projects\ISP\2 laba\laba 2.3\laba 2.3\obj\Debug\laba 2.3.exe
+D:\Programs\projects\ISP\2 laba\laba 2.3\laba 2.3\obj\Debug\laba 2.3.pdb
